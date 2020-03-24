@@ -34,3 +34,13 @@ width: width of the returned reference (optional)
 5. Pull the list of top 10 states with the highest percentage of ` < $1` tax returns. Do this also for the highest percentage of ` > $1,000,000` returns. Can you think of contextual data that could help you understand these results better?
 
 6. Add any other charts or visualizations you think might help guide the decision-making at HUA.
+
+
+<b>ADDITIONAL QUESTIONS being researched by Gold Team, for possible inclusion in dashboard:</b><br>
+A. Let's look at row 20 "Number of tax counseling for the elderly (TCE) prepared returns" in addition to row 24 "Number of elderly returns". Helpful for client to know the number of elderly people who used TCE services in each state... as a % of number of elderly filers.  <br>
+B. Might be helpful to also add a rank column (1 to 52) column for % of Elderly Filers (from overall) as well as a rank for elderly needing TCE assistance. <br>
+ <br>
+ OTHER NOTES: <br>
+Let's not work on any charts yet (other than those in the ReadMe file, for practice), until after we decide which data we want to show on the dashboard. Then we can spend more time tweaking only a few of the most relevant graphs that fit inside the narrative that John helps us create. <br>
+<b>REMINDER: Good idea to draw dashboard out by hand, first, before creating/finessing charts.</b><br>
+<b>REMINDER: Read the resources at the end of the slide deck "dashboard_design", about proper design of dashboards.</b><br>
