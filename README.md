@@ -24,7 +24,7 @@ width: width of the returned reference (optional)
     a. What percentage of tax returns filed are elderly returns? Create a plot showing the states with the ten highest percentage of elderly returns. 
 
 
-    b. How does the distribution of single, joint, and head-of-household returns filed differ by income bracket? How does this compare to the national picture?
+    b. How does the distribution of single, joint, and head-of-household returns filed differ across all returns? How does this compare to the national picture?
 
     c. How do active vs passive sources of income differ for each income bracket. Look at the percentage of total income (row 27) that comes from active sources -- salaries and wages + business or profession net income (rows 29 and 39) vs the percentage that comes from passive sources -- interest + dividends + capital gains (rows 31, 33, 41).  
 
